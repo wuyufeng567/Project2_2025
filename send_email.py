@@ -1,9 +1,9 @@
 import smtplib
 from email.message import EmailMessage
 
-from_email_addr="2714877989@qq.com"
-from_email_pass="ftlejlaudlafdgbj"
-to_email_addr=“418955330@qq.com"
+from_email_addr="1354148655@qq.com"
+from_email_pass="43512153486"
+to_email_addr=“685431256bhj@qq.com"
 
 msg=EmailMessage()
 body="Hello from Raspberry Pi"

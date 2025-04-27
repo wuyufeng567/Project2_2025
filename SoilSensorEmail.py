@@ -17,7 +17,6 @@ def callback(channel):
         print("Water Not Detected!")
     else:
         print("Water Detected!")
-故笙:
 Code:
 SoilSensor.py:
 import RPi.GPIO as GPIO
